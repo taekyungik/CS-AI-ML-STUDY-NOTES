@@ -9,7 +9,7 @@
 
 4) The Ultimate Goal: To show you that knowing just a little bit of code is highly practical, career-enhancing, and genuinely fun.
 <details>
-<summary><b>📘 Basics of AI Python Coding (클릭해서 펼치기)</b></summary>
+<summary><b>📘 Basics of AI Python Coding (Click to scroll)</b></summary>
 
 ### What is Computer Programming?
 <img width="828" height="468" alt="image" src="https://github.com/user-attachments/assets/9c235d2a-24c3-4e89-b1b6-e90bbc47eef5" />
